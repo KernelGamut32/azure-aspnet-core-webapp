@@ -1,5 +1,0 @@
-{
-    "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin/Release/net6.0/publish",
-    "appService.defaultWebAppToDeploy": "/subscriptions/551f6942-d82d-4c4e-99c8-8aa1dca5eaa2/microsoft.web/sites/subscriptions/551f6942-d82d-4c4e-99c8-8aa1dca5eaa2/resourceGroups/azure-aspnet-core-webapp/providers/Microsoft.Web/sites/azure-aspnet-core-webapp"
-}
